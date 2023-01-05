@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -119,6 +120,7 @@ Execute the program
   </ol>
 </body>
 </html>
+```
 
 ## OUPUT
 MY TIMETABLE IS DISPLAYED
