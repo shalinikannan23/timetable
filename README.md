@@ -16,16 +16,6 @@ Execute the program
 # CODE
 ```
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>SAVEETHA ENGINEERING COLLEGE </title>
-    </head>
-    <body>
-        <h3>TIMETABLE</h3>
-    </body>
-
-</html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>SAVEETHA ENGINEERING COLLEGE </title>
