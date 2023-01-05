@@ -125,4 +125,4 @@ Execute the program
 ## OUPUT
 MY TIMETABLE IS DISPLAYED
 ![OUTPUT](./images/output1.png)
-![OUTPUT](./images/output2.png)
+![OUTPUT](./images/output3.png)
